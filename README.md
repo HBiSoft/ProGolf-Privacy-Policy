@@ -1,4 +1,3 @@
-
 HBiSoft built the ProGolf app as a Commercial app. This SERVICE is provided by HBiSoft and is intended for use as is.
 
 This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
